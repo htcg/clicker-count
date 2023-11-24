@@ -1,4 +1,5 @@
-# cMLr3asK
+# clicker-count
+scrimba project test; deploying w/ netlify
 
 Quick start:
 
